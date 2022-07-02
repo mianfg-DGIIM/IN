@@ -1,6 +1,9 @@
-[⬅ Más asignaturas del DGIIM](https://github.com/mianfg/DGIIM)
+[⬅ Más asignaturas del DGIIM](https://github.com/mianfg-DGIIM)
+
+![Repo image](https://repository-images.githubusercontent.com/476475246/3f0b1486-e094-4038-aa71-2aacb0c1dc58)
 
 # `IN` Inteligencia de Negocio (_Business Intelligence_)
+
 
 | Nombre                | Inteligencia de Negocio                                      |
 | --------------------- | ------------------------------------------------------------ |
